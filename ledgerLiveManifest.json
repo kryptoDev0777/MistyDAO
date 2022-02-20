@@ -1,0 +1,28 @@
+{
+  "id": "mist",
+  "name": "MIST",
+  "url": "http://localhost:3000/app/dapp-browser?dappName=Gla&nanoApp=Gla&url=http%3A%2F%2Flocalhost%3A3001",
+  "homepageUrl": "https://mistydao.com/",
+  "icon": "https://drive.google.com/drive/folders/1ol961isQCMY-D_aK6o1mfGU1DeLFRSQT?usp=sharing",
+  "platform": "all",
+  "apiVersion": "0.0.1",
+  "manifestVersion": "1",
+  "branch": "stable",
+  "categories": [
+    "defi",
+    "staking",
+    "bonds"
+  ],
+  "currencies": [
+    "fantom"
+  ],
+  "content": {
+    "shortDescription": "The decentralized reserve infrastructure that's community-owned and liquidity protected.",
+    "description": "Gla is building a community-owned decentralized financial infrastructure to bring more stability and transparency for the world."
+  },
+  "permissions": [],
+  "domains": [
+    "https://*",
+    "http://*"
+  ]
+}
